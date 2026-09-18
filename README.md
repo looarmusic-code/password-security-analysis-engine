@@ -668,10 +668,6 @@ Real-world password security depends on additional factors such as password uniq
 
 Do not enter real sensitive credentials when running software in an environment you do not trust.
 
-## License
-
-This project is intended to be distributed under the MIT License.
-
 ## Author
 
 Developed by Looar (Raul) as a Python and cybersecurity portfolio project.
